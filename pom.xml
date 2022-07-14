@@ -5,12 +5,12 @@
         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.namics.oss.aem</groupId>
-    <artifactId>genericmultifield</artifactId>
+    <artifactId>genericmultifield-vbs</artifactId>
     <packaging>bundle</packaging>
     <version>3.1.0</version>
     <name>Generic Multifield for AEM 6.5</name>
     <description>com.namics.oss.aem - Generic Multifield for AEM 6.5</description>
-    <url>https://github.com/namics/aem-generic-multifield</url>
+    <url>https://github.com/rgemperle/aem-generic-multifield-vbs</url>
 
     <licenses>
         <license>
@@ -101,9 +101,9 @@
     </distributionManagement>
 
     <scm>
-        <url>https://github.com/namics/aem-generic-multifield</url>
-        <connection>scm:git:git@github.com:namics/aem-generic-multifield</connection>
-        <developerConnection>scm:git:git@github.com:namics/aem-generic-multifield.git</developerConnection>
+        <url>https://github.com/rgemperle/aem-generic-multifield-vbs</url>
+        <connection>scm:git:git@github.com:rgemperle/aem-generic-multifield-vbs</connection>
+        <developerConnection>scm:git:git@github.com:rgemperle/aem-generic-multifield-vbs.git</developerConnection>
     </scm>
 
 
